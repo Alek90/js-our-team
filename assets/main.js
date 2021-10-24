@@ -47,15 +47,27 @@ console.log(ourTeam[1].name);
 console.log(ourTeam[1].role);
 console.log(ourTeam[1].image);
 
+document.getElementById("fluf").innerHTML=ourTeam[1].name;
+document.getElementById("fluf_role").innerHTML=ourTeam[1].role;
+document.getElementById("fluf_img").src=ourTeam[1].image;
+
 
 console.log(ourTeam[2].name);
 console.log(ourTeam[2].role);
 console.log(ourTeam[2].image);
 
+document.getElementById("dodge").innerHTML=ourTeam[2].name;
+document.getElementById("dodge_role").innerHTML=ourTeam[2].role;
+document.getElementById("dodge_img").src=ourTeam[2].image;
+
 
 console.log(ourTeam[3].name);
 console.log(ourTeam[3].role);
 console.log(ourTeam[3].image);
+
+document.getElementById("bob").innerHTML=ourTeam[3].name;
+document.getElementById("bob_role").innerHTML=ourTeam[3].role;
+document.getElementById("bob_img").src=ourTeam[3].image;
 
 
 
