@@ -8,7 +8,7 @@
 const ourTeam = [
     {
         'name': 'Roger',
-        'role': 'team_leader',
+        'role': 'team leader',
         'image': 'https://picsum.photos/200'
     },
 
@@ -20,13 +20,13 @@ const ourTeam = [
 
     {
         'name': 'Dodge',
-        'role': 'operatore_dae',
+        'role': 'operatore dae',
         'image': 'https://picsum.photos/200'
     },
 
     {
         'name': 'Bob',
-        'role': 'operatore_livello_avanzato',
+        'role': 'operatore livello avanzato',
         'image': 'https://picsum.photos/200'
     }
 ];
