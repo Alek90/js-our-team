@@ -25,7 +25,7 @@ const ourTeam = [
     },
 
     {
-        'name': 'Roger',
+        'name': 'Bob',
         'role': 'operatore_livello_avanzato',
         'image': 'https://picsum.photos/200'
     }
